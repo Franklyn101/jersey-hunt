@@ -1,11 +1,11 @@
-import { useFonts } from "expo-font";
+import "@/components/sheets";
+import "react-native-reanimated";
 import { Stack } from "expo-router";
-import * as SplashScreen from "expo-splash-screen";
+import { useFonts } from "expo-font";
 import React, { useEffect } from "react";
 import { StatusBar } from "react-native";
-import "react-native-reanimated";
+import * as SplashScreen from "expo-splash-screen";
 import { SheetProvider } from "react-native-actions-sheet";
-import "@/components/sheets";
 
 SplashScreen.preventAutoHideAsync();
 

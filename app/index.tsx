@@ -98,7 +98,7 @@ export default function Index() {
           onScroll={onScrollHandler}
           viewabilityConfigCallbackPairs={viewabilityConfigCallbackPairs.current}
         />
-        <Text className="text-primary-main max-w-[406px] mx-auto font-grotesk_bold text-center text-[32px] leading-10 px-6">{STEPS_MAPS[index]?.text ?? ""}</Text>
+        <Text className="text-primary-main max-w-[406px] mx-auto font-grotesk_bold text-center text-3xl leading-10 px-6">{STEPS_MAPS[index]?.text ?? ""}</Text>
         <OnboardingPagination index={index} scrollX={scrollX} />
       </View>
 

@@ -13,7 +13,7 @@ const TopLeagues = () => {
   return (
     <View style={{ gap: 14 }}>
       <Text className="text-primary-main text-lg font-grotesk_medium">Top Leagues</Text>
-      <ScrollView contentContainerStyle={{ gap: 14 }} horizontal>
+      <ScrollView contentContainerStyle={{ gap: 14 }} horizontal showsHorizontalScrollIndicator={false}>
         {Object.keys(leagues).map((league) => (
           <View key={league}>
             <Image source={leagues[league]} style={{ height: 52, width: 52 }} resizeMode="cover" className="rounded-full" />
