@@ -1,6 +1,6 @@
 # Welcome to Jersey Hunt 👋
 
-<video src="./jersey-hunt-screen-record.mp4" width="300" controls poster="images/archive/jersey-hunt.jpeg">
+<video src="/jersey-hunt-screen-record.mp4" width="300" controls>
   Your browser does not support the video tag.
 </video>
 
