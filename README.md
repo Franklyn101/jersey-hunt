@@ -1,8 +1,8 @@
 # Welcome to Jersey Hunt 👋
 
-<video src="jersey-hunt-screen-record.mp4" width="300" controls>
-  Your browser does not support the video tag.
-</video>
+## Demo
+
+![App Demo](/jersey-hunt-screen-record.gif)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
