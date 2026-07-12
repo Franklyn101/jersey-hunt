@@ -1,4 +1,8 @@
-# Welcome to your Expo app 👋
+# Welcome to Jersey Hunt 👋
+
+<video src="./jersey-hunt-screen-record.mp4" width="300" controls poster="images/archive/jersey-hunt.jpeg">
+  Your browser does not support the video tag.
+</video>
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
